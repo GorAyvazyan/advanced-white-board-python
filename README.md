@@ -22,3 +22,20 @@ This project aims to create an **Advanced Digital Whiteboard** using Python. The
 ```bash
 git clone git@github.com:yourusername/advanced-white-board-python.git
 cd advanced-digital-whiteboard
+```
+
+### 2. Set up the environment:
+```bash
+python -m venv venv
+source venv/bin/activate  # For macOS/Linux
+venv\Scripts\activate     # For Windows
+```
+
+### 3. Set up the environment:
+```bash
+pip install pillow
+```
+### 4. Run the Application:
+```bash
+python main.py
+```
